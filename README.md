@@ -7,6 +7,7 @@
 * Hensoldt
 * Continental
 * [ATR-Software](https://www.atr-software.de/)
+* [RSU](https://www.rsu.de/)
 * Daimler TSS
 
 ## Listings
