@@ -1,19 +1,20 @@
 # Student Jobs Ulm
 
 ## Companies
-* [Profect](https://profect.de)
-* Elektrobit
-* Zwick-Roell
-* Hensoldt
-* Continental
-* [ATR-Software](https://www.atr-software.de/)
+* [Profect*](https://profect.de)
+* [Elektrobit*](https://www.elektrobit.com/)
+* [Zwick-Roell*](https://www.zwickroell.com/)
+* [Hensoldt*](https://www.hensoldt.net/)
+* [Continental*](https://www.continental.com/)
+* [ATR-Software*](https://www.atr-software.de/)
 * [RSU](https://www.rsu.de/)
-* Daimler TSS
-* [Userwerk](https://www.userwerk.com/)
+* [Daimler TSS](https://www.daimler-tss.com/)
+* [Userwerk*](https://www.userwerk.com/)
 
+I know people at all compaies listed with a * and can ask them specifically for jobs that may are not listed on the company's web site.
 ## Listings
 
-## Starting Skills
+## Starting Skills (as I know it - listing may be more specific)
 * [Git](https://en.wikipedia.org/wiki/Git)
   * [git introduction on youtube](https://youtube.com/playlist?list=PL2We04F3Y_43ZNJZgejdTRVv8pm8l1Yjw) 
   * [atlassian git learner site](https://www.atlassian.com/git)
