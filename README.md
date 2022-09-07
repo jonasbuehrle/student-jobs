@@ -11,7 +11,7 @@
 * [Daimler TSS](https://www.daimler-tss.com/)
 * [Userwerk*](https://www.userwerk.com/)
 
-I know people at all compaies listed with a * and can ask them specifically for jobs that may are not listed on the company's web site.
+I know people at all companies listed with a * and can ask them specifically for jobs that may not be listed on the company's web site.
 ## Listings
 
 ## Starting Skills (as I know it - listing may be more specific)
